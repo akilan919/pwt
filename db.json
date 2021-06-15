@@ -1,0 +1,12 @@
+[
+
+    {"title" : "Chandru1",
+    "author"     : "Chandru",
+    "desc"       : "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "price"      : 250,
+    "discount"   : 10,
+    "language"   : "Tamil",
+    "status-instock": "Available",
+    "published-date": "15/06/2021"
+}
+                ]
